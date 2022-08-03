@@ -1,0 +1,12 @@
+.cont{
+    height: 20em;
+    width: 100%;
+}
+.container{
+    background-image: url("src/assets/images/market.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 20em;
+    width: auto;
+    background-position: 50% 50%;
+}

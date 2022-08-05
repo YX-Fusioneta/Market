@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/Market",
+    "public": "dist/market",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -12,7 +12,7 @@
       "port": 5033
     },
     "ui": {
-      "enabled": true
+      "enabled": false
     }
   }
 }
